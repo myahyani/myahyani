@@ -1,7 +1,7 @@
 ### Hi there i'm Mohamed 👋
 
 [![Gmail Badge](https://img.shields.io/badge/-yahyanimohamed92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yahyanimohamed92@gmail.com)](mailto:yahyanimohamed92@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-yahyanimed-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahyanimed/)](https://www.linkedin.com/in/yahyanimed/) [![Github Badge](https://img.shields.io/badge/-myahyani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/myahyani/)](https://www.github.com/myahyani/)
+[![Linkedin Badge](https://img.shields.io/badge/-yahyanimed-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahyanimed/)](https://www.linkedin.com/in/yahyani-med/) [![Github Badge](https://img.shields.io/badge/-myahyani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/myahyani/)](https://www.github.com/myahyani/)
 
 
 I'm a computer Science and Software student. I enjoy learning new languages and frameworks.
