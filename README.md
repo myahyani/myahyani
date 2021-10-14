@@ -24,7 +24,7 @@ I'm a computer Science and Software student. I enjoy learning new languages and 
     + Basics of Php
     + Basics of Java
 ---
-- ⚡ Fun fact: I'm a civil engineer who fall in love with IT,
+- ⚡ Fun fact: I'm a civil engineer who fell in love with IT,
 ---
 + 🤔 GitHub stats:
 
