@@ -6,23 +6,22 @@
 
 I'm a computer Science and Software student. I enjoy learning new languages and frameworks.
 
-- 🔭 Personal project for 2021: 
-   + Learning SpringBoot, VueJs,
-   + find a job to improve my technological skills,
+- 🔭 Personal project for 2022: 
+   + Improve my personnal skills,
+   
 ---
 - 🌱 I’m currently learning 
-    + Python
-    + Flask
+    + Java 8
+    + Angular
     + SpringBoot
-    + VueJs
-    + OOP
+    + Docker
 ---
 - 🤔 I’m working now with
     + Html 5
     + Css 3
     + Javascript
-    + Basics of Php
-    + Basics of Java
+    + Basics of Spring
+    + Java OOP
 ---
 - ⚡ Fun fact: I'm a civil engineer who fell in love with IT,
 ---
