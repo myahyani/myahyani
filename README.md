@@ -11,17 +11,19 @@ I'm a computer Science and Software student. I enjoy learning new languages and 
    
 ---
 - 🌱 I’m currently learning 
+    + Domain-Driven Design
+    + Spring security
+---
+- 🤔 I’m working now with
     + Java 8
     + Angular
     + SpringBoot
-    + Docker
----
-- 🤔 I’m working now with
+    + Spring Security Basics
     + Html 5
     + Css 3
     + Javascript
-    + Basics of Spring
     + Java OOP
+    + Docker
 ---
 - ⚡ Fun fact: I'm a civil engineer who fell in love with IT,
 ---
