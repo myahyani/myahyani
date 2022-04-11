@@ -13,6 +13,8 @@ I'm a computer Science and Software student. I enjoy learning new languages and 
 - 🌱 I’m currently learning 
     + Domain-Driven Design
     + Spring security
+    + Kafka
+    + Jira
 ---
 - 🤔 I’m working now with
     + Java 8
@@ -22,8 +24,10 @@ I'm a computer Science and Software student. I enjoy learning new languages and 
     + Html 5
     + Css 3
     + Javascript
+    + Typescript
     + Java OOP
     + Docker
+    + Agile methodology
 ---
 - ⚡ Fun fact: I'm a civil engineer who fell in love with IT,
 ---
