@@ -45,7 +45,7 @@ I focus on performance, clean architecture, and production-ready systems.
        - CI/CD concepts
        - Agile / Scrum
 ---
-📌 What I’m Working On
+📌 What I’m Working On (Projects)
 
    + End-to-end Data Engineering pipelines
    + Production-grade ETL/ELT systems
