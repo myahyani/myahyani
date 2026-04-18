@@ -1,60 +1,90 @@
-### Hi there i'm Mohamed 👋
+# 👋 Hi, I'm Mohamed Yahyani
 
-[![Gmail Badge](https://img.shields.io/badge/-yahyanimohamed92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yahyanimohamed92@gmail.com)](mailto:yahyanimohamed92@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-yahyanimed-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yahyanimed/)](https://www.linkedin.com/in/yahyani-med/) [![Github Badge](https://img.shields.io/badge/-myahyani-grey?style=flat&logo=github&logoColor=white&link=https://github.com/myahyani/)](https://www.github.com/myahyani/)
-
-
-Data Engineer & Software Professional with a strong analytical background.
-Passionate about building scalable data platforms, designing robust architectures, and delivering data-driven solutions.
-
-I focus on performance, clean architecture, and production-ready systems.
-
-- 🔭 Personal project for 2026: 
-   + Improve my personnal skills,
-   
----
-- 🧠 I’m currently learning 
-    +  Distributed Data Processing
-    +  Data Lake & Medallion Architecture (Bronze / Silver / Gold)
-    +  Cloud Engineering (Azure & AWS fundamentals)
-    +  AI-ready Data Engineering practices
-    +  CI/CD & DevOps Data Platforms
+[![Gmail Badge](https://img.shields.io/badge/-yahyanimohamed92@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yahyanimohamed92@gmail.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/-yahyanimed-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahyani-med/) 
+[![GitHub Badge](https://img.shields.io/badge/-myahyani-181717?style=flat&logo=github&logoColor=white)](https://github.com/myahyani)
 
 ---
-- 🤔 I’m working now with
-    + Data & Analytics
-       - Azure Data Factory
-       - Azure Synapse Analytics
-       - Databricks (Spark / Delta Lake)
-       - SQL Server
-       - MySQL
-         
-    + Cloud
-       - Azure (Storage Gen2, Pipelines, Spark Pools)
-       - AWS (S3, Glue fundamentals)
-         
-    + Backend & Dev
-       - Java
-       - Spring Boot
-       - Maven / Gradle
-       - REST APIs
-         
-    + DevOps
-       - Docker
-       - GitHub Actions
-       - CI/CD concepts
-       - Agile / Scrum
----
-📌 What I’m Working On (Projects)
 
-   + End-to-end Data Engineering pipelines
-   + Production-grade ETL/ELT systems
-   + Performance optimization for Spark jobs
-   + Data modeling & architecture design
----
-- ⚡ Fun fact: I'm a civil engineer who fell in love with IT,
----
-+ 🤔 GitHub stats:
+## 🚀 About Me
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true)](https://github.com/myahyani/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myahyani&layout=compact)](https://github.com/myahyani/github-readme-stats)
+Data Engineer & Software Professional with a strong analytical and engineering mindset.
+
+I design and build **scalable, production-grade data platforms** with a focus on:
+- Performance ⚡
+- Clean architecture 🧱
+- Reliability & maintainability 🔧
+
+💡 Background in Civil Engineering → transitioned into Data & Software Engineering.
+
+---
+
+## 🧠 Currently Learning & Growing
+
+- Distributed Data Processing (Spark internals, optimization)
+- Data Lake & Medallion Architecture (Bronze / Silver / Gold)
+- Cloud Engineering (Azure & AWS)
+- AI-ready Data Engineering pipelines
+- CI/CD & DevOps for data platforms
+
+---
+
+## 🛠️ Tech Stack
+
+### 📊 Data & Analytics
+- Azure Data Factory  
+- Azure Synapse Analytics  
+- Databricks (Spark / Delta Lake)  
+- SQL Server  
+- MySQL  
+
+### ☁️ Cloud
+- Azure (ADLS Gen2, Pipelines, Spark Pools)  
+- AWS (S3, Glue – fundamentals)  
+
+### 💻 Backend & Development
+- Java  
+- Spring Boot  
+- REST APIs  
+- Maven / Gradle  
+
+### ⚙️ DevOps
+- Docker  
+- GitHub Actions  
+- CI/CD pipelines  
+- Agile / Scrum  
+
+---
+
+## 📌 What I’m Working On
+
+- End-to-end Data Engineering pipelines (ETL / ELT)
+- Production-grade data platforms
+- Spark performance optimization
+- Data modeling & architecture design
+
+---
+
+## 🎯 2026 Goals
+
+- Deepen expertise in distributed systems  
+- Build AI-ready data platforms  
+- Master cloud-native architectures  
+- Deliver high-impact, scalable solutions  
+
+---
+
+## 📈 GitHub Stats
+
+[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true&theme=default)](https://github.com/myahyani)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myahyani&layout=compact&theme=default)](https://github.com/myahyani)
+
+---
+
+## ⚡ Fun Fact
+
+I started as a Civil Engineer…  
+Now I build data systems instead of bridges.
+
+---
