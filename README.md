@@ -76,9 +76,9 @@ I design and build **scalable, production-grade data platforms** with a focus on
 
 ## 📈 GitHub Stats
 
-[![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true&theme=default)](https://github.com/myahyani)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true&theme=github_dark&cache_seconds=1800)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myahyani&layout=compact&theme=default)](https://github.com/myahyani)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myahyani&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
