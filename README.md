@@ -77,9 +77,9 @@ I design and build **scalable, production-grade data platforms** with a focus on
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=myahyani&theme=github-dark&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myahyani&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=myahyani&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=myahyani&theme=github-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myahyani&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
